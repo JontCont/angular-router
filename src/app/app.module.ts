@@ -16,7 +16,7 @@ import { BookComponent } from './@Views/other/book/book.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
